@@ -1,5 +1,6 @@
 # demo1-test1
-
+#说明
+简单的一个vue手机页面布局，通过vuex进行传值
 ## Project setup
 ```
 npm install
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
